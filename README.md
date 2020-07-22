@@ -8,4 +8,4 @@ What has been the most fascinating for me was how complex mechanism occur in see
 As an architect, the functionality and aesthetics of the projects are most important to me.
 The pure code and excellent result is an ideal to which I strive.
 
-💬 Ask me about anything
+💬 Ask me about anything and ![have a good one](https://youtu.be/e4Ao-iNPPUc)!
