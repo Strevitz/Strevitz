@@ -4,6 +4,6 @@ My name is <img src="https://user-images.githubusercontent.com/61030079/88273604
 What has been the most fascinating for me was how complex mechanism occur in seemingly such simple objects.
 
 As an architect, the functionality and aesthetics of the projects are most important to me.
-The pure code and excellent result is an ideal to which I strive.
+The pure code and <img src="https://user-images.githubusercontent.com/61030079/88274412-f7789380-ccdb-11ea-84fa-355bfb6dc335.gif" height="20"/> excellent <img src="https://user-images.githubusercontent.com/61030079/88274412-f7789380-ccdb-11ea-84fa-355bfb6dc335.gif" height="20"/> result is an ideal to which I strive.
 
 💬 Ask me about anything and [have a good one](https://youtu.be/e4Ao-iNPPUc)!
