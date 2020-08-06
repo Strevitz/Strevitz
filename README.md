@@ -2,7 +2,7 @@
 
 ```javascript
 let frontEndDeveloper = {firstName:"Arthur", lastName:"Strevitz", age:"always 21", favoriteColor:"transparent"};
-let stack = [ "Javascript", "HTML5", [ "CSS3", "SCSS" ], "Bootstrap", "jQuery", [ "React", "GatsbyJS", "NextJS", "CRA" ], "Redux", "NodeJS", "Sketch" ];
+let stack = [ "Javascript", "HTML5", [ "CSS3", "SCSS" ], "Bootstrap", "jQuery", [ "React", "GatsbyJS", "NextJS", "CRA" ], "Redux", "NodeJS", "npm", "Sketch" ];
 stack.push("React Native", "MongoDB");
 
 function newGreatProject(frontEndDeveloper, stack) {
