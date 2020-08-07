@@ -16,4 +16,4 @@ console.log("your " + newGreatProject());
 - [my website](https://strzewiczek.pl/)
 - [linkedIn](https://www.linkedin.com/in/strzewiczek/)
 
-#### 💬 Ask me about anything and [have a good one](https://youtu.be/o48KzPa42_o)!
+#### 💬 Ask me about anything and [have a good one](https://youtu.be/e4Ao-iNPPUc)!
