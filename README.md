@@ -3,7 +3,7 @@
 ### Hi there, I'm Arthur - aka [Strevitz][website] :metal:
 
 ## I'm Front-End / Web Developer open to new project.
-- :ballot_box_with_check: I'm currently working on a ![Real Estate React Website][project]! :hotel:
+- :ballot_box_with_check: I'm currently working on a ![Real Estate React Website][project] with Contentful :hotel:
 - :ballot_box_with_check: I'm currently learning React Native, GraphQL, Mongo DB :mortar_board:
 - :ballot_box_with_check: I'm looking to collaborate with other content creators :couple:
 - :ballot_box_with_check: 2020 Goals: Contribute more to Open Source projects :four_leaf_clover:
