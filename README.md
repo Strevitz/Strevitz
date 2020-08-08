@@ -9,7 +9,7 @@
 - :ballot_box_with_check: 2020 Goals: Contribute more to Open Source projects :four_leaf_clover:
 
 ### Connect with me:
-[<img align="left" alt="strzewiczek.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://strzewiczek.pl]
+[<img align="left" alt="strzewiczek.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ```javascript
 let frontEndDeveloper = {firstName:"Arthur", lastName:"Strevitz", age:"always 21", favoriteColor:"transparent"};
