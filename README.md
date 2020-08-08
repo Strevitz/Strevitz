@@ -3,7 +3,7 @@
 ### Hi there, I'm Arthur - aka [Strevitz][website] :metal:
 
 ## I'm Front-End / Web Developer open to new project.
-- :ballot_box_with_check: I'm currently working on a ![Real Estate React Website][project] with Contentful :hotel:
+- :ballot_box_with_check: I'm currently working on a [Real Estate React Website][project] with Contentful :hotel:
 - :ballot_box_with_check: I'm currently learning React Native, GraphQL, Mongo DB :mortar_board:
 - :ballot_box_with_check: I'm looking to collaborate with other content creators :couple:
 - :ballot_box_with_check: 2020 Goals: Contribute more to Open Source projects :four_leaf_clover:
@@ -28,7 +28,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
