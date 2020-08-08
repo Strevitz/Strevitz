@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Arthur - aka [Strevitz][website] :metal:
 
-## I'm Front-End / Web Developer open to new project.
+## I'm Front-End / Web Developer open to new projects.
 - I'm currently working on a [Real Estate React Website][project] with Contentful :hotel:
 - I'm currently learning React Native, GraphQL, Mongo DB :mortar_board:
 - I'm looking to collaborate with other content creators :couple:
@@ -18,6 +18,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 
 ### Languages and Tools:
 
