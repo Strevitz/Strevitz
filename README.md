@@ -1,4 +1,4 @@
-![cube as](https://user-images.githubusercontent.com/61030079/90888183-0d01db80-e3b6-11ea-92f5-d498e6395ea1.gif)
+![js-logo](https://user-images.githubusercontent.com/61030079/90903197-e2bc1800-e3cd-11ea-8586-e605b0139c38.gif)
 
 ### Hi there, I'm Arthur - aka [Strevitz][website] :metal:
 
