@@ -35,8 +35,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
  💅
- [<img align="left" alt="GSAP" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-" />][webdevplaylist]
+ [[<img align="left" alt="HTML5" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgreensock.com%2Fdocs%2F&psig=AOvVaw25B25631TRDI9p_i9ts7Y6&ust=1598209372299000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDNoITAr-sCFQAAAAAdAAAAABAD" />][webdevplaylist]
+
 
 
 <br />
